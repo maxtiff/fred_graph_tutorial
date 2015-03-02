@@ -2,7 +2,7 @@
 
 Graphing Examples
 
-<img src="/../FRED Logos/FRED.png" alt="FRED"> 
+<img src="FRED Logos/FRED.png" alt="FRED"> 
 <h1><small>https://research.stlouisfed.org/fred2/graph/</small><h1>
 
 Compute and graph Quarterly Real GDP for the US economy: Y = C + I + G + NX
