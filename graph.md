@@ -1,4 +1,4 @@
-<link rel="stylesheet" type="text/css" href="css/bootstrap.css"></link>
+<link href="http://bootswatch.com/flatly/bootstrap.css" rel="stylesheet"></link>
 
 Graphing Examples
 
